@@ -1,0 +1,17 @@
+insert into categories (id, name)  values (1, 'Arastirma - Tarih');
+insert into categories (id, name)  values (2, 'Bilim');
+insert into categories (id, name)  values (3, 'Çizgi Roman');
+insert into categories (id, name)  values (4, 'Çocuk ve Gençlik');
+insert into categories (id, name)  values (5, 'Ders / Sinav Kitaplari');
+insert into categories (id, name)  values (6, 'Din Tasavvuf');
+insert into categories (id, name)  values (7, 'Edebiyat');
+insert into categories (id, name)  values (8, 'Egitim Basvuru');
+insert into categories (id, name)  values (9, 'Felsefe');
+insert into categories (id, name)  values (10, 'Foreign Languages');
+insert into categories (id, name)  values (11, 'Hobi');
+insert into categories (id, name)  values (12, 'Mitoloji Efsane');
+insert into categories (id, name)  values (13, 'Mizah');
+insert into categories (id, name)  values (14, 'Prestij Kitaplari');
+insert into categories (id, name)  values (15, 'Sanat - Tasarim');
+insert into categories (id, name)  values (16, 'Sesli Kitaplar');
+insert into categories (id, name)  values (17, 'Diğer');
