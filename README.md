@@ -4,8 +4,10 @@ Uygulamayı çalıştırmak için aşağıdaki adımları takip ediniz.
 
 2 ) Projenin olduğu diziye gelip sırasıyla şu komutları çalıştırın.
 
+```bash
 - mvn clean install -D skipTest
 - docker build -t library .
 - docker-compose up -d
 - Terminalden çalıştırın .\init-aws.sh
 - docker-compose up -d
+```
